@@ -9,13 +9,13 @@ body {
 
     margin: 0;
     padding: 0;
-
+    color: white;
 }
 
 main {
 
     height: 100vh;
-    background: rgb(255, 183, 49);
+    background: black;
 
     display: flex;
     flex-direction: column;
@@ -25,7 +25,6 @@ main {
 
 #questionBox {
 
-    background: rgb(157, 211, 247);
     padding: 20px;
     margin-top: 50px;
     height: 140px;
@@ -49,9 +48,8 @@ main {
 #placeBox {
 
     margin-top: 10px;
-    margin-bottom: 20px;
-    background: rgb(255, 231, 231);
-    border: 2px solid black;
+    margin-bottom: 30px;
+   
     
 }
 
@@ -73,8 +71,7 @@ input {
 
 height: 40px;
 font-size: 2rem;
-border: 2px solid black;
-border-radius: 0 1em 1em 0;
+
 }
 
 #answerBox {
@@ -87,10 +84,10 @@ align-items: center;
 #answerBox > button {
 
     background: rgb(0, 0, 0);
-    color: rgb(255, 183, 49);
+    color: white;
     font-size: 2rem;
     padding: 5px;
-    border-radius: 1em;
+    
 
     position: relative;
     /* right: 30px; */
