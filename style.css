@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+main {
+
+    height: 100vh;
+    background: rgb(255, 183, 49);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#questionBox {
+
+    background: rgb(157, 211, 247);
+    padding: 20px;
+    margin-top: 50px;
+    height: 140px;
+    max-width: 500px;
+    
+
+}
+
+.text{
+    font-size: 1rem;
+    font-weight: bold;
+
+}
+
+
+.alternativ {
+
+    font-style: italic;;
+    color: green;
+}
+#placeBox {
+
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: rgb(255, 231, 231);
+    border: 2px solid black;
+    
+}
+
+#placeBox > img {
+    max-width: 400px;
+}
+
+#placeBox > h2 {
+
+    font-size: 2rem;
+    margin: 10px;
+
+}
+
+
+
+
+input {
+
+height: 40px;
+font-size: 2rem;
+border: 2px solid black;
+border-radius: 0 1em 1em 0;
+}
+
+#answerBox {
+display: flex;
+align-items: center;
+
+
+}
+
+#answerBox > button {
+
+    background: rgb(0, 0, 0);
+    color: rgb(255, 183, 49);
+    font-size: 2rem;
+    padding: 5px;
+    border-radius: 1em;
+
+    position: relative;
+    /* right: 30px; */
+
+
+}
+
+#answerBox > button:active {
+
+    background: green;
+} 
+
+#animation {
+
+    height: 200px;
+}
