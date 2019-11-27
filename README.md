@@ -74,5 +74,5 @@ Planen var också att visa olika bilder ut genom spelet, men dessa två *feautur
 [GitHub Repo](https://github.com/solkatt/JavaScript_Lab01.git)
 
 
-[Demo](https://github.com/solkatt/JavaScript_Lab01.git)
+[Demo](https://solkatt.github.io/JavaScript_Lab01/)
 
