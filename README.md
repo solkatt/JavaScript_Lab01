@@ -64,12 +64,10 @@ document.onkeydown = function () {
 ```
 
 ## Avgränsingar
-### Exempel på avgränsingar
-Ambitionen var från början att göra det möjligt för användaren att plocka upp flera objekt och spara dem i en digital ryggsäck. I nuläget finns ett objekt möjligt att plocka upp, som sparas i en *array*. 
+
+Ambitionen var från början att göra det möjligt för användaren att plocka upp flera objekt och spara dem i en digital ryggsäck, för att sedan kunna använda dem vid olika tillfällen. I nuläget finns ett objekt möjligt att plocka upp, som sparas i en *array*. 
 
 Planen var också att visa olika bilder ut genom spelet, men dessa två *feautures* är tyvärr inte klara. Därför finns det spår av dem i koden.
-
-
 
 ## Länkar
 
